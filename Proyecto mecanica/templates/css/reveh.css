@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/vehiculos.jpg);
+}
+
+nav{
+    background-color: #15297c;
+    height: 70px;
+}
+
+.container{
+    min-height: 50%;
+    padding: 50px;
+    margin-top: 50px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    background-color: aquamarine;
+    width: 750px;
+}
+label{
+    color: #15297c;
+}
